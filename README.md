@@ -23,6 +23,8 @@ https://public.tableau.com/views/OCDPAITIENTDASHBOARD/Dashboard1?:language=en-US
 ---
 ## 📊 Advanced Inssights
 
+https://github.com/habibasati018-debug/OCD-PATIENTS-DEMOGRAPHICAL-ANALYSIS/blob/main/insights.md
+
 
 
 ---
